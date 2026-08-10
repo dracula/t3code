@@ -1,20 +1,23 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [T3 Code](https://github.com/pingdotgg/t3code)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [T3 Code](https://github.com/pingdotgg/t3code), the T3 Chat desktop coding app.
 
-![Screenshot](./screenshot.png)
+<!--
+  TODO: add a real screenshot of the theme applied in T3 Code, then restore:
+  ![Screenshot](./screenshot.png)
+-->
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/ItriIbouanane/dracula-theme-t3code/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [![Itri Ibouanane](https://github.com/ItriIbouanane.png?size=100)](https://github.com/ItriIbouanane) |
+| ------------------------------------------------------------------------------------------------------ |
+| [Itri Ibouanane](https://github.com/ItriIbouanane)                                                      |
 
 ## Community
 

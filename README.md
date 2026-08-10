@@ -2,10 +2,7 @@
 
 > A dark theme for [T3 Code](https://github.com/pingdotgg/t3code), the T3 Chat desktop coding app.
 
-<!--
-  TODO: add a real screenshot of the theme applied in T3 Code, then restore:
-  ![Screenshot](./screenshot.png)
--->
+![Screenshot](./screenshot.png)
 
 ## Install
 

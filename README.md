@@ -1,6 +1,6 @@
 # Dracula for [T3 Code](https://github.com/pingdotgg/t3code)
 
-> A dark theme for [T3 Code](https://github.com/pingdotgg/t3code), the T3 Chat desktop coding app.
+> A dark theme for [T3 Code](https://github.com/pingdotgg/t3code).
 
 ![Screenshot](./screenshot.png)
 

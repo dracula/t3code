@@ -5,12 +5,12 @@
 If you use Git, clone the repository to install the theme and keep it up to date:
 
 ```bash
-git clone https://github.com/ItriIbouanane/dracula-theme-t3code.git
+git clone https://github.com/dracula/t3code.git
 ```
 
 #### Install manually
 
-Download the [GitHub `.zip` archive](https://github.com/ItriIbouanane/dracula-theme-t3code/archive/main.zip) and unzip it, or save [`Dracula.json`](./Dracula.json) directly.
+Download the [GitHub `.zip` archive](https://github.com/dracula/t3code/archive/main.zip) and unzip it, or save [`Dracula.json`](./Dracula.json) directly.
 
 #### Activating the theme
 

@@ -2,7 +2,7 @@
 
 #### Install using Git
 
-If you are a Git user, you can install the theme and keep it up to date by cloning the repo:
+If you use Git, clone the repository to install the theme and keep it up to date:
 
 ```bash
 git clone https://github.com/ItriIbouanane/dracula-theme-t3code.git
@@ -10,9 +10,9 @@ git clone https://github.com/ItriIbouanane/dracula-theme-t3code.git
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/ItriIbouanane/dracula-theme-t3code/archive/main.zip) option and unzip it, or just save [`Dracula.json`](./Dracula.json) directly.
+Download the [GitHub `.zip` archive](https://github.com/ItriIbouanane/dracula-theme-t3code/archive/main.zip) and unzip it, or save [`Dracula.json`](./Dracula.json) directly.
 
-#### Activating theme
+#### Activating the theme
 
 1. Open T3 Code and go to **Settings → Appearance**.
 2. Click **Add a theme**.

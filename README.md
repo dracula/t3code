@@ -10,11 +10,11 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/ItriIbouanane/dracula-theme-t3code/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/t3code/graphs/contributors).
 
 | [![Itri Ibouanane](https://github.com/ItriIbouanane.png?size=100)](https://github.com/ItriIbouanane) |
-| ------------------------------------------------------------------------------------------------------ |
-| [Itri Ibouanane](https://github.com/ItriIbouanane)                                                      |
+| ---------------------------------------------------------------------------------------------------- |
+| [Itri Ibouanane](https://github.com/ItriIbouanane)                                                   |
 
 ## Community
 

@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [INSTALL.md](./INSTALL.md).
+All instructions can be found at [draculatheme.com/t3code](https://draculatheme.com/t3code).
 
 ## Team
 

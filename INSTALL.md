@@ -17,4 +17,4 @@ Download the [GitHub `.zip` archive](https://github.com/dracula/t3code/archive/m
 1. Open T3 Code and go to **Settings → Appearance**.
 2. Click **Add a theme**.
 3. Drag and drop [`Dracula.json`](./Dracula.json) onto the dialog (or click **Choose files** and select it).
-4. Select **Dracula** from your theme list. Boom! It's working ✨
+4. Select **Dracula** from your theme list.
